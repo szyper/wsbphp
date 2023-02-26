@@ -9,8 +9,12 @@
       Użytkownik $count:<br> 
       Imię i nazwisko: $user[firstName] $user[lastName]<br>
       Data urodzenia: $user[birthday]<br>
-      Miasto: $user[cityName]
+      Miasto: $user[cityName]<br>
+      Województwo: 
       <hr>
 USER;
   }
+  // dodaj tabelę województwo
+  //relacja tabeli województwo i miasto
+  //wyświetlenie województwa dla użytkownika
  ?>
